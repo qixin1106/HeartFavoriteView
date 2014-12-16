@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>37DB4A4B-8523-4357-B5BA-9B8F337A4211</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HeartFavoriteView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E9AD8482382E4E6890585AF7E9D30570DE338DC1</key>
+		<string>https://github.com/qixin1106/HeartFavoriteView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HeartFavoriteView/HeartFavoriteView.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E9AD8482382E4E6890585AF7E9D30570DE338DC1</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/qixin1106/HeartFavoriteView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E9AD8482382E4E6890585AF7E9D30570DE338DC1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E9AD8482382E4E6890585AF7E9D30570DE338DC1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HeartFavoriteView</string>
+		</dict>
+	</array>
+</dict>
+</plist>

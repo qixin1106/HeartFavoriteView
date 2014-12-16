@@ -20,6 +20,7 @@
 		9964EDAD1A403CEE00C6CAF9 /* icon_xin_hui_right.png in Resources */ = {isa = PBXBuildFile; fileRef = 9964EDA71A403CEE00C6CAF9 /* icon_xin_hui_right.png */; };
 		9964EDAE1A403CEE00C6CAF9 /* icon_xin_hui_right@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9964EDA81A403CEE00C6CAF9 /* icon_xin_hui_right@2x.png */; };
 		9964EDB11A403CF700C6CAF9 /* QXHeartFavoriteView.m in Sources */ = {isa = PBXBuildFile; fileRef = 9964EDB01A403CF700C6CAF9 /* QXHeartFavoriteView.m */; };
+		9964EDB31A4040E600C6CAF9 /* heart.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9964EDB21A4040E600C6CAF9 /* heart.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +42,7 @@
 		9964EDA81A403CEE00C6CAF9 /* icon_xin_hui_right@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_xin_hui_right@2x.png"; sourceTree = "<group>"; };
 		9964EDAF1A403CF700C6CAF9 /* QXHeartFavoriteView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QXHeartFavoriteView.h; sourceTree = "<group>"; };
 		9964EDB01A403CF700C6CAF9 /* QXHeartFavoriteView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QXHeartFavoriteView.m; sourceTree = "<group>"; };
+		9964EDB21A4040E600C6CAF9 /* heart.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = heart.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 		9964ED701A403C8400C6CAF9 = {
 			isa = PBXGroup;
 			children = (
+				9964EDB21A4040E600C6CAF9 /* heart.gif */,
 				9964ED7B1A403C8400C6CAF9 /* HeartFavoriteView */,
 				9964ED7A1A403C8400C6CAF9 /* Products */,
 			);
@@ -168,6 +171,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9964EDAE1A403CEE00C6CAF9 /* icon_xin_hui_right@2x.png in Resources */,
+				9964EDB31A4040E600C6CAF9 /* heart.gif in Resources */,
 				9964EDAB1A403CEE00C6CAF9 /* icon_xin_hui_left.png in Resources */,
 				9964ED881A403C8400C6CAF9 /* Main.storyboard in Resources */,
 				9964EDAD1A403CEE00C6CAF9 /* icon_xin_hui_right.png in Resources */,
@@ -332,6 +336,7 @@
 				9964ED9E1A403C8400C6CAF9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
