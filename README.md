@@ -1,6 +1,9 @@
 HeartFavoriteView
 =================
 
+LinkedIn的收藏效果
+-----------------
+
 演示效果:
 
 ![image](https://raw.githubusercontent.com/qixin1106/HeartFavoriteView/master/HeartFavoriteView/heart.gif)
